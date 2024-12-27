@@ -8,6 +8,10 @@ tags:
   - category2
 description: 'Maybe we can try it!'
 ---
+In rotary-wing UAV(JX) group, an autonomous barrel
+transportation mission was proposed for Rotary-wing UAV
+(RUAV) which aims at validating the feasibility of vertical
+replenishment by UAV. 
 
 ## Competition description
 [3rd International Unmanned Aerial Vehicle(UAV) Innovation Grand Prix (UAVGP)](http://www.uavgp.com.cn/En/) was sponsored by [Aviation
